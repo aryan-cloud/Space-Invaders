@@ -1,7 +1,7 @@
-# Project Overview - Space Invaders (SE 456 Final Project)
+# Project Overview - Space Invaders 
 
 ## 🌍 Introduction
-This project is a real-time game system inspired by the original *Space Invaders* arcade game. Developed as the final submission for **SE 456: Architecture of Real-Time Systems**, the project was built in **C#** using a performance-focused, custom game engine called **Azul.Engine**. The primary objective was to showcase modular game architecture, advanced object-oriented design, and effective use of real-time constraints.
+This project is a real-time game system inspired by the original *Space Invaders* arcade game. The project was built in **C#** using a performance-focused, custom game engine called **Azul.Engine**. The primary objective was to showcase modular game architecture, advanced object-oriented design, and effective use of real-time constraints.
 
 ---
 
