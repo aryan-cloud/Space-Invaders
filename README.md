@@ -1,4 +1,4 @@
-# Space Invaders - SE 456 Final Project
+# Space Invaders
 
 Welcome to the documentation for my Space Invaders. This project is a custom-engineered remake of the classic **Space Invaders**, implemented using a real-time game engine (Azul.Engine) and built entirely in C#.
 
