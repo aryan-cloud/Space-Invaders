@@ -52,7 +52,6 @@ This project is a modern, performance-optimized clone of the classic arcade game
 ## 📃 Documentation Files
 - `PROJECT_OVERVIEW.md` - Detailed overview of the game architecture
 - `DESIGN_PATTERNS.md` - Deep dive into design pattern usage
-- `FEATURES.md` - Feature-by-feature breakdown
 
 ---
 
