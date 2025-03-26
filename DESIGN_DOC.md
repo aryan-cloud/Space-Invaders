@@ -16,4 +16,4 @@ This project makes extensive use of software design patterns to implement real-t
 
 For complete descriptions, real-world use cases, and implementation details:
 
-📄 [View Design Patterns Documentation (PDF)](./Docs/Space Invaders Design Document.pdf)
+📄 [View Design Patterns Documentation (PDF)](https://github.com/aryan-cloud/Space-Invaders/blob/88202d0ba4c240ef644f534464b755035dc2c636/Docs/Space%20Invaders%20Design%20Document.pdf)
